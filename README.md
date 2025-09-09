@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Hello" width="450"/>
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Hello" width="370"/>
 </div>
 
 <h2 align="center">Привет, меня зовут Алёна!</h2>
