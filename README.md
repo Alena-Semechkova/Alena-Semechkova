@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Hello" width="300"/>
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Hello" width="450"/>
 </div>
 
 <h2 align="center">Привет, меня зовут Алёна!</h2>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=F0F0F0"/>
   </a>
 </p>
----
+<hr>
  
 ### 📌 Аналитик данных 
 Понимаю основы продуктовой работы, заинтересована в проведении А/Б тестов, увлечена математической статистикой.  
