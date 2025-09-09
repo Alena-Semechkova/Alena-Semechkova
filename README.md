@@ -1,12 +1,16 @@
-## Привет, меня зовут Алёна!  
+<div align="center">
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25idzJ0ajMzNWU4OWcyN3praDdqeWlyeGphbWhvZnU4NTEyanFpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif)" alt="Hello" width="300"/>
+</div>
 
-![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25idzJ0ajMzNWU4OWcyN3praDdqeWlyeGphbWhvZnU4NTEyanFpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif)  
+<h2 align="center">Привет, меня зовут Алёна!</h2>
 
-### 📩 Связаться со мной  
+<h3 align="center">📩 Связаться со мной</h3>
+
+<h2 align="center"> 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=F0F0F0)](https://t.me/alsemv)
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=F0F0F0)](https://wa.me/79612244444)
-
+</div>
 ---
  
 ### 📌 Аналитик данных 
